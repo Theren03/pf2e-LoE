@@ -1,0 +1,81 @@
+{
+  "name": "Lemnia",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p><em>Lemnia, God of Starlight, is the source of creation. A brilliant guiding light that tells us not just about ourselves, but about our futures. Lemnia's creations fill the emptiness and provide for us an existence to enjoy.</em></p>\n<p>-Beviteres the Prophetess</p>\n<hr />\n<p>Lemnia's sibling-foil is Chamnia, God of Abyss.</p>"
+    },
+    "rules": [],
+    "slug": null,
+    "_migration": {
+      "version": 0.925,
+      "lastMigration": null
+    },
+    "traits": {
+      "otherTags": [],
+      "value": []
+    },
+    "publication": {
+      "title": "",
+      "authors": "",
+      "license": "OGL",
+      "remaster": false
+    },
+    "category": "deity",
+    "sanctification": {
+      "modal": "can",
+      "what": [
+        "holy",
+        "unholy"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "creation",
+        "fate",
+        "knowledge",
+        "soul",
+        "star"
+      ],
+      "alternate": [
+        "glyph",
+        "magic"
+      ]
+    },
+    "font": [
+      "harm",
+      "heal"
+    ],
+    "attribute": [
+      "int",
+      "wis"
+    ],
+    "skill": [
+      "cra",
+      "rel"
+    ],
+    "weapons": [],
+    "spells": {}
+  },
+  "img": "worlds/loe/data/items/pantheon/Lemnia.png",
+  "folder": null,
+  "flags": {
+    "core": {},
+    "exportSource": {
+      "world": "loe",
+      "system": "pf2e",
+      "coreVersion": "11.315",
+      "systemVersion": "5.14.4"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "5.14.4",
+    "coreVersion": "11.315",
+    "createdTime": 1711436904789,
+    "modifiedTime": 1711516572798,
+    "lastModifiedBy": "OzE8ud0BViCfTTon"
+  }
+}
